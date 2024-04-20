@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "540925219252",
+    "project_id": "vehiclerecog-3d604",
+    "storage_bucket": "vehiclerecog-3d604.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:540925219252:android:1c70cb4789462fdf52e2e1",
+        "android_client_info": {
+          "package_name": "com.example.vehiclerecog"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnVpHIv1Ksi4NVmIaRCtGBlCfGTrb9nFE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
